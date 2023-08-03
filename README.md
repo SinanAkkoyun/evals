@@ -1,3 +1,6 @@
+# This work was to get GPT4 API access
+- Added medical eval
+
 # Evals
 
 Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
